@@ -1,0 +1,48 @@
+#Text textarea {
+    
+    background-color: #F7F7F7;
+    color: rgb(0, 0, 0);
+
+    font-family: "Kode Mono", monospace;
+    font-size: 20px;
+    font-weight: 300;
+    font-style: normal;
+
+    border: none;
+    border-radius: 10px;
+}
+
+.Summary {
+    display: flex;
+}
+
+.Summary .info {
+    width: 40vw;
+    min-height: 40vh;
+    text-align: center;
+    /* background: #000; */
+}
+
+.Summary .detail {
+    width: 60vw;
+    min-height: 40vh;
+    text-align: center;
+    /* background: #ff0000; */
+}
+
+.Summary h1 {
+    text-align: center;
+}
+
+.Summary p{
+    font-family: "Kode Mono", monospace;
+    font-size: 20px;
+    font-weight: 300;
+    font-style: normal;
+}
+
+h2 {
+    font-family: "Annapurna SIL", serif;
+    font-weight: 400;
+    font-style: normal;
+}

@@ -1,0 +1,22 @@
+#root {
+    background-color: #9F9F9F;
+    min-height: 100vh;
+    color: azure;
+}
+
+.container h2{
+    font-family: "Comic Neue", cursive;
+    font-weight: 900;
+    font-style: italic;
+    text-align:center;
+    color: black;
+}
+
+#container{
+    margin-top: 50px;
+}
+
+::selection{
+    color: azure;
+    background-color: black;
+}
